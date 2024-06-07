@@ -31,3 +31,5 @@ Olá, Mundo!! Vini aqui👨‍💻
 
   
 </div>
+
+![snake gif](https://github.com/oviniciusdev/oviniciusdev/blob/output/github-contribution-grid-snake.gif)
