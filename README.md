@@ -5,6 +5,7 @@ Olá, Mundo!! Vini aqui👨‍💻
 - 💻 Atualmente trabalho FullStack
 - 📚 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviniciusdev&show_icons=true&theme=highcontrast)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
