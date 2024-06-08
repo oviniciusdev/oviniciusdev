@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=gagalin+Code&weight=500&size=22&pause=1000&color=0072ff&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+perfil! :)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=gagalin+Code&weight=500&size=22&pause=1000&color=0072ff&center=true&vCenter=true&random=false&width=524&lines=Olá,Mundo!+Seja+Bem-Vindo+ao+meu+perfil! :)" alt="Typing SVG">
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 <img align="right" alt="Vini-Gif" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncW1mbGJ1aDlramF0OWF3bjZ0MDY0NnJsYXUybTdmcHU4YW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"> 
 
  
-<h3 align="left">Entre em contato!</h3>
+<h6 align="left">Entre em contato!</h3>
 <div> 
   <a href="https://www.instagram.com/vinicius.4luv?igsh=MWxnb2xnbmZ2YnN6cA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/invite/RQXHes4k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
