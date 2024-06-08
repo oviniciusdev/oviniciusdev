@@ -1,7 +1,6 @@
 Olá, Mundo!! Vini aqui👨‍💻
 
 
-
 - 💻 Atualmente trabalho FullStack
 - 📚 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas
   
@@ -31,5 +30,8 @@ Olá, Mundo!! Vini aqui👨‍💻
 
   
 </div>
-
-![snake gif](https://github.com/oviniciusdev/oviniciusdev/blob/output/github-contribution-grid-snake.gif)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oviniciusdev/oviniciusdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oviniciusdev/ovniciusdev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
