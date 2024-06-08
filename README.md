@@ -6,9 +6,14 @@
 
 <img align="center" alt="" src="./src/banner.gif">
 
+<p align="center">
 - 💻 Hoje estou atuando como desenvolvedor full Stack
+  <p align="center">
 - 📚 Estudando Engenharia de Software e Técnico em Desenvolvimento de sistemas.
-  Tenho uma rotina bem intensa de trabalho e estudos, mas sempre evoluindo cada dia mais.
+    <p align="center">
+- 🚀 Evoluindo cada dia mais.
+  
+  ##
   
 <div style="text-align: center;" align="center">
   <h3> Stats </h3>
@@ -19,6 +24,19 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oviniciusdev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=0092ff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=0092ff&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
+##
+<img align="right" alt="Vini-Gif" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncW1mbGJ1aDlramF0OWF3bjZ0MDY0NnJsYXUybTdmcHU4YW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"> 
+
+ 
+<h3 align="left">Entre em contato!</h3>
+<div> 
+  <a href="https://www.instagram.com/vinicius.4luv?igsh=MWxnb2xnbmZ2YnN6cA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/invite/RQXHes4k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:viniciusjxp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-j%C3%BAnio-dos-santos-20a3212b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
 
 
 <div style="display: inline_block"><br>
@@ -31,18 +49,9 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-<img align="right" alt="Vini-Gif" height="100" width="130" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncW1mbGJ1aDlramF0OWF3bjZ0MDY0NnJsYXUybTdmcHU4YW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"> 
 </div>
 
 ##
-
- 
-<div> 
-  <a href="https://www.instagram.com/vinicius.4luv?igsh=MWxnb2xnbmZ2YnN6cA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/invite/RQXHes4k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:viniciusjxp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-j%C3%BAnio-dos-santos-20a3212b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
   
 </div>
 <picture align="center">
