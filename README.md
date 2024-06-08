@@ -1,11 +1,25 @@
-Olá, Mundo!! Vini aqui👨‍💻
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=gagalin+Code&weight=500&size=22&pause=1000&color=0072ff&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+perfil! :)" alt="Typing SVG">
+  </a>
+</div>
 
 <img align="center" alt="" src="./src/banner.gif">
 
-- 💻 Atualmente trabalho FullStack
-- 📚 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas
+- 💻 Hoje estou atuando como desenvolvedor full Stack
+- 📚 Estudando Engenharia de Software e Técnico em Desenvolvimento de sistemas.
+  Tenho uma rotina bem intensa de trabalho e estudos, mas sempre evoluindo cada dia mais.
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviniciusdev&show_icons=true&theme=tokyonight)
+<div style="text-align: center;" align="center">
+  <h3> Stats </h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oviniciusdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0092ff&text_color=FFF&border_radius=3&border_color=0092ff&icon_color=0092ff&theme=tokyonight" alt="GitHub stats">
+
+  <a href="https://github.com/oviniciusdev/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oviniciusdev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=0092ff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=0092ff&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
