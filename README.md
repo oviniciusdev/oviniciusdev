@@ -1,5 +1,6 @@
 Olá, Mundo!! Vini aqui👨‍💻
 
+<img align="center" alt="" src="./src/banner.gif">
 
 - 💻 Atualmente trabalho FullStack
 - 📚 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas
