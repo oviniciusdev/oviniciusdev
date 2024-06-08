@@ -17,7 +17,6 @@ Olá, Mundo!! Vini aqui👨‍💻
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Vini-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"> 
 <img align="right" alt="Vini-Gif" height="100" width="130" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncW1mbGJ1aDlramF0OWF3bjZ0MDY0NnJsYXUybTdmcHU4YW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"> 
 </div>
 
