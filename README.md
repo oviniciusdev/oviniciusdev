@@ -26,7 +26,7 @@
 </div>
 
 ##
-<img align="right" alt="Vini-Gif" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncW1mbGJ1aDlramF0OWF3bjZ0MDY0NnJsYXUybTdmcHU4YW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"> 
+<img align="right" alt="Vini-Gif" height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtncW1mbGJ1aDlramF0OWF3bjZ0MDY0NnJsYXUybTdmcHU4YW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"> 
 
  
 <h6 align="left">Entre em contato!</h3>
