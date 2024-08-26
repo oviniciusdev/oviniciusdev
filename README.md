@@ -6,9 +6,7 @@
 
 <img align="center" alt="" src="./src/banner.gif">
 
-<p align="center">
-- 💻 Hoje estou atuando como desenvolvedor full Stack
-  <p align="center">
+
 - 📚 Estudando Engenharia de Software e Técnico em Desenvolvimento de sistemas.
     <p align="center">
 - 🚀 Evoluindo cada dia mais.
